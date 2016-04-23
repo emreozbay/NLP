@@ -10,8 +10,8 @@ Slides- [Here] (https://prezi.com/ewtjmgmd8z2v/natural-language-processing/).
 
 1. Pycharm
 2. Scrapy
-3. Naive Bayes
-4. NLTK
+3. NLTK
+4. Naive Bayes
 5. WEKA
 
 
@@ -24,8 +24,8 @@ Slides- [Here] (https://prezi.com/ewtjmgmd8z2v/natural-language-processing/).
 
 ##Project Development Steps
 
-- [ ] Take datas from film website
-- [ ] Clean data (remove  mentioned users)
-- [ ] Label positive and negative comment
-- [ ] Apply Naive Bayes Classifier algorithm
-- [ ] Test results 
+- [X]  Take datas from film website
+- [X]  Clean data (remove  mentioned users)
+- [X]  Label positive and negative comment
+- [ ]  Apply Naive Bayes Classifier algorithm
+- [ ]  Test results 
