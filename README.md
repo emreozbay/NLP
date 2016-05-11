@@ -19,7 +19,7 @@ Slides- [Here] (https://prezi.com/ewtjmgmd8z2v/natural-language-processing/).
 
 ## Run
 
-
+scrapy crawl comment -o comment.json
 
 
 ##Project Development Steps
@@ -27,5 +27,5 @@ Slides- [Here] (https://prezi.com/ewtjmgmd8z2v/natural-language-processing/).
 - [X]  Take datas from film website
 - [X]  Clean data (remove  mentioned users)
 - [X]  Label positive and negative comment
-- [ ]  Apply Naive Bayes Classifier algorithm
-- [ ]  Test results 
+- [X]  Apply Naive Bayes Classifier algorithm
+- [X]  Test results 
